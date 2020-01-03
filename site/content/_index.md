@@ -1,20 +1,20 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
+title: "KEYSOME"
+subtitle: Google® Certified SEO Agency
 image: /img/home-jumbotron.jpg
 blurb:
-    heading: Why Kaldi?
-    text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
+    heading: Why KEYSOME?
+    text: "KEYSOME is the startups for everyone who believes that great ideas deserve its best. We tackle the most challenging problems & build products that have real impact. We turn any real-world use-cases into enduring products & passionately crafted platforms. Intelligent marketing solutions are at the heart of everything we do."
 intro:
     heading: "What we offer"
     text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
 products:
     - image: img/illustrations-coffee.svg
-      text: "We sell green and roasted coffee beans that are sourced directly from independent farmers and farm cooperatives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability."
+      text: "KEYSOME, is one of the strongest & innovative search optimization agency. We're pround to care to make a social impact and support local communities. Check our blogs, or contact us directly to learn more about us."
     - image: /img/illustrations-coffee-gear.svg
-      text: "We offer a small, but carefully curated selection of brewing gear and tools for every taste and experience level. No matter if you roast your own beans or just bought your first french press, you’ll find a gadget to fall in love with in our shop."
+      text: "We are a small, but carefully picked team of search experts armed with the right gear and tools for every kind of experience level. No matter if your company is small or big, we just want to bring you value-for-money services."
 values:
     heading: Our values
-    text: Coffee is an amazing part of human culture but it has a dark side too – one of colonialism and mindless abuse of natural resources and human lives. We want to turn this around and return the coffee trade to the drink’s exhilarating, empowering and unifying nature.
+    text: Understanding what makes something special and the way in which it answers real and perceived needs — the brand's values — is essential in creating a successful brand. No idea is a bad idea. Its an exciting activity full of hope and promise, full of expectations. Get it right and you are one third of the way there.
 ---
 
