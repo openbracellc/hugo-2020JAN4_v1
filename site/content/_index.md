@@ -7,7 +7,7 @@ blurb:
     text: "KEYSOME is the startups for everyone who believes that great ideas deserve its best. We tackle the most challenging problems & build products that have real impact. We turn any real-world use-cases into enduring products & passionately crafted platforms. Intelligent marketing solutions are at the heart of everything we do."
 intro:
     heading: "What we offer"
-    text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
+    text: "KEYSOME offers a unique and unmatched keyword data visualization, competitor analysis and link research. With a well-trained team and robust process, we offer our clients a wide range of search optimization-related services, supplemented by industry-ready search strategies."
 products:
     - image: img/illustrations-coffee.svg
       text: "KEYSOME, is one of the strongest & innovative search optimization agency. We're pround to care to make a social impact and support local communities. Check our blogs, or contact us directly to learn more about us."
