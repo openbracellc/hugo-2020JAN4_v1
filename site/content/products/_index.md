@@ -1,13 +1,10 @@
 ---
-title: Our Coffee
+title: Our Services
 type: products
 image: /img/products-jumbotron.jpg
 heading: What we offer
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  KEYSOME is a fully custom, white label, search optimization and web development venture with focus on ranking your sites #1 in search. We are fully committed to helping companies create beautiful and responsive website that meet their exact needs; no templates which means better, faster and more return on your search rankings.
 intro:
   blurbs:
     - image: /img/illustrations-coffee.svg
@@ -37,19 +34,13 @@ intro:
         space where you can hang out with fellow coffee lovers and learn about
         coffee making techniques. All of the artwork on display there is for
         sale. The full price you pay goes to the artist.
-  heading: What we offer
+  heading: BESPOKE DIGITAL MARKETING
   description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+    Work with an agile team of specialists who will support your project with website design, eCommerce, content, strategy and marketing. We specialise in bespoke website design and development – from initial planning to deployment. Our success is built on technical ability, experience and dedication to delivering websites that work to your specific requirements. Every member of our staff is dedicated to helping you succeed with your venture.
 main:
-  heading: Great coffee with no compromises
+  heading: Great value with no compromises
   description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+    KEYSOME's search optimziation works with a strategic vision to generate brand engagement, always helping clients win higher conversions and measurable results. We cater both users and search engines with equal balance. Profitable online performance starts with the basics — a flawless platform, optimized content and amazing keyword strategy!
   image1:
     alt: A close-up of a paper filter filled with ground coffee
     image: /img/products-grid3.jpg
