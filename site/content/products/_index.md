@@ -8,9 +8,8 @@ description: >-
 intro:
   blurbs:
     - image: /img/illustrations-coffee.svg
-      heading: Page Optimization
       text: >
-        Optimize both the content and HTML source code of individual web pages in order to rank higher and earn more relevant traffic in search engines. 
+        Here's the question: Does your search engine understand your site better? Is your site optimized both content and code-wide? We help clients realize which individual web/app pages impact your search ranking performance. In order to rank higher and earn more relevant traffic in search engines, our on-page optimization efforts includes optimizing web page titles, meta descriptions, tags, schema markup and keyword research that are among the few important on-page ranking factors. Keyword analysis used to identify which keywords to target with search engine optimized effort. KEYSOME helps to build schema markups that helps search engines instantly understand your content better. 
     - image: /img/illustrations-coffee-gear.svg
       text: >
         We offer a small, but carefully curated selection of brewing gear and
@@ -19,11 +18,7 @@ intro:
         to fall in love with in our shop.
     - image: /img/illustrations-tutorials.svg
       text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
+        We take off page search optimization seriously. The actions taken outside of your own website to impact your rankings within search engine results pages. At KEYSOME, we help you identify content off-page opportunities to drive organic traffic to your site. The most powerful way to engage and drive traffic to your website is sharing relevant content and distributing them to the right audience. We analyze backlinks to find out which links are valuable to keep or not.
     - image: /img/illustrations-meeting-space.svg
       text: >
         We believe that good coffee has the power to bring people together.
