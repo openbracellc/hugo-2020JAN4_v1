@@ -2,19 +2,27 @@
 title: "Our Services"
 image: /img/about-jumbotron.jpg
 pricing:
-  heading: Facts
+  heading: Monthly subscriptions
   description: >-
-    -- 
+    We make it easy to make great coffee a part of your life. Choose one of our
+    monthly subscription plans to receive great coffee at your doorstep each
+    month. Contact us about more details and payment info.
   plans:
-    - description: 
+    - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
       items:
-        - In
-    - description: 'For ...'
-    - description: 
+        - 3 lbs of coffee per month
+      plan: Small
+      price: '50'
+    - description: 'Great for avid drinkers, java-nsoving couples and bigger crowds'
       items:
-        - The 
+        - 6 lbs of coffee per month
+      plan: Big
+      price: '80'
+    - description: Want a few tiny batches from different varieties? Try our custom plan
+      items:
+        - Whatever you need
       plan: Custom
-      price: '30'
+      price: '?'
 values:
   - heading: "MARKETING"
     text: > 
