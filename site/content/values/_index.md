@@ -22,4 +22,26 @@ values:
     text: >
       Do you need PR to make news? Do you need searchable conetnt to promote biz? Do you need blogger outreach programs? Do you need to engage with relevant bloggers, vloggers, podcasters, and experts for promotions? Are your press releases sitting idle? Do you need to spread the word on your e-commerce discount vouchers? Do you need converage for your events? Do you need to lauch your products/services? Planning to make your website traffic 100% organic and content driven searches? As one of the leading brand design companies, we know how important it is for your business to make a good impression. 
     imageUrl: "/img/about-reinvest-profits.jpg"
+pricing:
+  heading: Monthly subscriptions
+  description: >-
+    We make it easy to make great coffee a part of your life. Choose one of our
+    monthly subscription plans to receive great coffee at your doorstep each
+    month. Contact us about more details and payment info.
+  plans:
+    - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
+      items:
+        - 3 lbs of coffee per month
+      plan: Small
+      price: '50'
+    - description: 'Great for avid drinkers, java-nsoving couples and bigger crowds'
+      items:
+        - 6 lbs of coffee per month
+      plan: Big
+      price: '80'
+    - description: Want a few tiny batches from different varieties? Try our custom plan
+      items:
+        - Whatever you need
+      plan: Custom
+      price: '30'
 ---
