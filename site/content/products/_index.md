@@ -27,13 +27,13 @@ main:
   description: >
     KEYSOME's search optimziation works with a strategic vision to generate brand engagement, always helping clients win higher conversions and measurable results. We cater both users and search engines with equal balance. Profitable online performance starts with the basics — a flawless platform, optimized content and amazing keyword strategy!
   image1:
-    alt: -
+    alt: 
     image: /img/products-grid3.jpg
   image2:
-    alt: -
+    alt: 
     image: /img/products-grid2.jpg
   image3:
-    alt: -
+    alt: 
     image: /img/products-grid1.jpg
 testimonials:
   - author: Tom Burch, VP Sales
