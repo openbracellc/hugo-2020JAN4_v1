@@ -27,19 +27,19 @@ main:
   description: >
     KEYSOME's search optimziation works with a strategic vision to generate brand engagement, always helping clients win higher conversions and measurable results. We cater both users and search engines with equal balance. Profitable online performance starts with the basics — a flawless platform, optimized content and amazing keyword strategy!
   image1:
-    alt: A close-up of a paper filter filled with ground coffee
+    alt: -
     image: /img/products-grid3.jpg
   image2:
-    alt: A green cup of a coffee on a wooden table
+    alt: -
     image: /img/products-grid2.jpg
   image3:
-    alt: Coffee beans
+    alt: -
     image: /img/products-grid1.jpg
 testimonials:
-  - author: Madelyn Mccaffrey, Director (Operations)
+  - author: Tom Burch, VP Sales
     quote: >-
       We continue to expand our business with KEYSOME. Happy to recommend them to anyone who is looking to improve their rankings. The results far exceed any traditional form of marketing.
-  - author: Tom Burch, VP Sales
+  - author: Madelyn Mccaffrey, Director (Operations)
     quote: >-
       Received a growth of 25%. I love their stance on empowering search optimization and pricing transparency.
 full_image: /img/products-full-width.jpg 
@@ -64,9 +64,9 @@ pricing:
         - 'Market Target: Local + Global'
         - 'Traffic 75% ± 5%'
         - 'Premium PR Services'
-        - 'Google Penalty Check'
+        - 'Google Penalty Removal'
         - 'Competition Analysis'
-        - 'Broken Links Check'
+        - 'Broken Links Removal'
         - 'Proper URL META Analysis'
       plan: VALUE
       price: '999/ᴹᵒ'
