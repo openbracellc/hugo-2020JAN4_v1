@@ -13,9 +13,10 @@ pricing:
         - 3 lbs of coffee per month
       plan: Small
       price: '50'
-    - description: 'For the past few years, we have helped multiple business increase their website traffic, leads & revenue by 200% using our signature SEO. Here is our invitation: Try KEYSOME, if you desire your business to be found easily by the people that need your products.'
+    - description: 'For the past few years we have helped multiple business increase their website traffic leads & revenue by 200% using our signature SEO. Here is our invitation Try KEYSOME, if you desire your business to be found easily by the people that need your products.'
       items:
-      plan: 
+        - 3 lbs of coffee per month
+      plan: Small
       price: ''
     - description: Want a few tiny batches from different varieties? Try our custom plan
       items:
