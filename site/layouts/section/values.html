@@ -1,10 +1,11 @@
 {{ define "main" }}
 
-<div class ="nopricing">
-  {{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title) }} 
+{{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title) }} 
+
+<div class="nopricing">
+  {{ partial "table" .Params.pricing }}
 </div>
 
-{{ partial "table" .Params.pricing }}
 
 <div class="mw7 center ph3 pt4">
 
