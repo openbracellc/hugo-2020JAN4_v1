@@ -1,15 +1,10 @@
 .nopricing .f4 {
   display: none !important;
 }
-
-
 .stitched2 {
    padding: 20px;
    margin: 0px;
    color: #fff;
    font-weight: bold;
-   line-height: 1.3em;
    border: 2px dashed #fff;
-   box-shadow: 0 0 0 4px #080850, 2px 1px 6px 4px rgba(10, 10, 0, 0.5);
-   font-weight: normal;
 }
