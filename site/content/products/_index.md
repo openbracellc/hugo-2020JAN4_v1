@@ -1,5 +1,5 @@
 ---
-title: Our Services
+title: Why KEYSOME
 type: products
 image: /img/products-jumbotron.jpg
 heading: What we offer
