@@ -15,16 +15,12 @@ pricing:
         - 'After performing a search query, 62% click on an organic result... Source: Rand Fishkin'
     - description: 'For the past few years we have helped multiple business increase their website traffic leads & revenue by 200% using our signature SEO. Here is our invitation Try KEYSOME, if you desire your business to be found easily by the people that need your products.'
       items:
-        - 'A'
-      plan: Small
-      price: ''
-    - description: 'W'
+        - ''
+    - description: 
       items:
         - 'Top 2 results on page 1 of Google have 38% of all the backlinks from pages on page 1... Source: Matthew Barby, HubSpot'
         - 'On average users view 3 to 3.5 pages when landing on a webpage from the search... Source: SEMrush'
         - 'Content with a featured snippet gets a 2X higher click through rate... Source: HubSpot'
-      plan: Custom
-      price: '?'
 values:
   - heading: "MARKETING"
     text: > 
