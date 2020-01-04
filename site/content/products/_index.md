@@ -21,11 +21,7 @@ intro:
         We take off page search optimization seriously. The actions taken outside of your own website to impact your rankings within search engine results pages. At KEYSOME, we help you identify content off-page opportunities to drive organic traffic to your site. The most powerful way to engage and drive traffic to your website is sharing relevant content and distributing them to the right audience. We analyze backlinks to find out which links are valuable to keep or not.
     - image: /img/illustrations-meeting-space.svg
       text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+        We focus on search ranking KPIs lilke Topical Trust Flow that impact your search ranking directly. Give your site a strong, technical SEO foundation so your content has the best chance to rank for relevant keywords and phrases. KEYSOME helps clients with index optimization & penalty removal. Our search experts diagnose & fix issues causing ranking penalties in order to quickly regain search traffic. We help clients compress even images to boost your web pages load times by 10x. We focus more on important technical factors that impact your site's search ranking. Proper site index-ability helps search engines crawl & index your web pages. Did you check KEYSOME's Pagescore yet?
   heading: BESPOKE DIGITAL MARKETING
   description: >
     Work with an agile team of specialists who will support your project with website design, eCommerce, content, strategy and marketing. We specialise in bespoke website design and development – from initial planning to deployment. Our success is built on technical ability, experience and dedication to delivering websites that work to your specific requirements. Every member of our staff is dedicated to helping you succeed with your venture.
