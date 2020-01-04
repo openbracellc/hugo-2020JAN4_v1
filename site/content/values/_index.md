@@ -27,7 +27,7 @@ values:
   - heading: "BRANDING"
     text: >
       FACT: We're exposed to over 5000 brands/day. We design all the brandy bits and arrange them into a coherent, cohesive and organised one-ness that is the way your company looks and sounds to everyone it rubs shoulders with. Especially for start-ups and very small businesses, these packages combine the design for your logo with a set of stationery, a website or an online shop. You'll be benefiting from the collective skills of our creative team and web team, with one point of call and an experienced account manager to guide you through the whole process. There is far more to brands than meets the eye — like what you do, how you do it and what it does for other people. 
-    imageUrl: "/img/save__23-1.webp"
+    imageUrl: "/img/157817170339560501.png"
   - heading: "CREATIVES"
     text: >
       The way the brand looks, in all its various manifestations, is far more than the design of the logo. A logo is a symbol or wordmark, or a combination of the two, which personifies an individual company, or a range of products or services. Great design has an amazingly positive effect on any business. When this is applied consistently and in conjunction with a predetermined set of styles and elements — fonts, colours, photographs and graphics — it forms the cornerstone of the visual identity. We hire the best eyes to create your brand. We guide photons through mosaics of pixels to interact via people’s visual cortex and make them do things they otherwise wouldn't have done. Enuf said, perhaps?
