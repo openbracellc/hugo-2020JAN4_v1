@@ -1,12 +1,10 @@
 ---
-title: "Our Services"
+title: "Why KEYSOME"
 image: /img/about-jumbotron.jpg
 pricing:
-  heading: Monthly subscriptions
+  heading: Growth-hack your SEO Strategy
   description: >-
-    We make it easy to make great coffee a part of your life. Choose one of our
-    monthly subscription plans to receive great coffee at your doorstep each
-    month. Contact us about more details and payment info.
+    Here's some food for thought: Google receives 63K+ searches/second on any given day 50% of search queries are 4 words or longer. 67% of clicks go to top 3 websites in SERPs. 75% of users never click past the 1st page of SERPs.
   plans:
     - description: 
       items:
