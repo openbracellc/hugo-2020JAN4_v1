@@ -4,7 +4,7 @@ image: /img/about-jumbotron.jpg
 values:
   - heading: "MARKETING"
     text: > 
-      DYK, Top 5 search results attract 67% clicks. How do you know that your digital marketing strategy works? If given a choice high traffic and low conversions Vs low traffic+high conversion. What would you choose? Now, factor in Organic SEO Vs Paid Ads. Now factor in Time Vs Cost. Again, factor in keyword competition Vs conversions. Making your site optimized for search is an intensely time consuming and iterative process. The challenges towards Optimizing your Digital Marketing Strategy is finding the right mix of keywords that provide a balance in search traffic, competition, & CPC costs included.
+      DYK, Top 5 search results attract 67% clicks. How do you know that your digital marketing strategy works? If given a choice high traffic and low conversions Vs low traffic plus high conversion. What would you choose? Now, factor in pros-cons for organic SEO versus paid advertisements. Now factor in time Vs cost. Again, factor in keyword competition versus conversions. Making your site optimized for search is an intensely time consuming and iterative process. The challenges towards optimizing your digital marketing strategy is finding right mix of keywords that provide a balance in search traffic, competition, & CPC costs. KEYSOME is a go-to company for digital marketing services. We offer premier services for data-driven search engine optimization, digital marketing & PPC. We provide affordable search optimization services to startups that bank their revenue on organic traffic and conversion-driven engagement.
     imageUrl: "/img/about-shade-grown.jpg"
   - heading: "BRANDING"
     text: >
