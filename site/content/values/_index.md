@@ -22,5 +22,28 @@ values:
     text: >
       Do you need PR to make news? Do you need searchable conetnt to promote biz? Do you need blogger outreach programs? Do you need to engage with relevant bloggers, vloggers, podcasters, and experts for promotions? Are your press releases sitting idle? Do you need to spread the word on your e-commerce discount vouchers? Do you need converage for your events? Do you need to lauch your products/services? Planning to make your website traffic 100% organic and content driven searches? As one of the leading brand design companies, we know how important it is for your business to make a good impression. 
     imageUrl: "/img/about-reinvest-profits.jpg"
-
+full_image: /img/products-full-width.jpg
+pricing:
+  heading: BRANDING
+  description: >-
+    KEYSOME 
+  plans:
+    - description: 
+      items:
+        - In ....
+        - In.... 
+        - In..... 
+        - Google ...
+      plan: Small
+      price: '50'
+    - description: 'Test....'
+      plan: Big
+      price: '80'
+    - description: Want a few tiny batches from different varieties? Try our custom plan
+      items:
+        - Top...
+        - Top...
+        - Top... 
+      plan: Custom
+      price: '?'
 ---
