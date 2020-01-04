@@ -3,8 +3,7 @@ title: "Contact"
 logo: "/img/logo.svg"
 contact_entries:
   - heading: Location
-    text: "3/105, Moulivakkam, 
-    Porur, Chennai"
+    text: "ÜT: 13.023409, 80.144101"
   - heading: Working hours
     text: "Monday – Saturday: 9AM – 7PM
     We’re closed on Sundays"
