@@ -8,9 +8,10 @@ pricing:
     monthly subscription plans to receive great coffee at your doorstep each
     month. Contact us about more details and payment info.
   plans:
-    - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
+    - description: KEYSOME
       items:
-        - 3 lbs of coffee per month
+        - a survey conducted by KEYSOME 75% of users never scroll past the first page of search results
+        - 53% of visits are abandoned if a mobile site takes longer than 3 seconds to load..... Source: Google
       plan: Small
       price: '50'
     - description: 'For the past few years we have helped multiple business increase their website traffic leads & revenue by 200% using our signature SEO. Here is our invitation Try KEYSOME, if you desire your business to be found easily by the people that need your products.'
@@ -18,9 +19,9 @@ pricing:
         - 3 lbs of coffee per month
       plan: Small
       price: ''
-    - description: Want a few tiny batches from different varieties? Try our custom plan
+    - description: W
       items:
-        - Whatever you need
+        - Whatever you need 
       plan: Custom
       price: '?'
 values:
