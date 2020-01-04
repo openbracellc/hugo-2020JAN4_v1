@@ -38,7 +38,7 @@ main:
 testimonials:
   - author: Madelyn Mccaffrey, Director (Operations)
     quote: >-
-      We continue to expand our business with KEYSOME. We would be happy to recommend them to anyone who is looking to improve their rankings. The results far exceed any traditional form of marketing you will undertake.
+      We continue to expand our business with KEYSOME. Happy to recommend them to anyone who is looking to improve their rankings. The results far exceed any traditional form of marketing.
   - author: Tom Burch, VP Sales
     quote: >-
       Received a growth of 25%. I love their stance on empowering search optimization and pricing transparency.
@@ -48,31 +48,31 @@ pricing:
   description: >-
     Does your search efforts pay? Understanding what makes something special and the way by which it answers real and perceived needs is essential in creating a successful strategy. 
   plans:
-    - description: Perfect for the startups
+    - description: Perfect for startups
       items:
-        - 
+        - '2 Keywords 50% ↑'
+        - 'Market Target: Local'
+        - 'Traffic 50% ± 5%'
+        - 'Indepth Site Analysis'
+        - 'Content Duplicacy Check'
+        - 'Backlinks Analysis'
       plan: BASIC ⚡️
       price: '499/Mo'
     - description: 'Perfect for medium business'
       items:
-        - 2 Keywords — 50% ↑ — 6 Months
-        - Market Target: Local
-        - Traffic 50% ± 5%
-        - Indepth Site Analysis
-        - Content Duplicacy Check
-        - Backlinks Analysis
+        - '5 Keywords — 60% ↑'
+        - 'Market Target: Local + Global'
+        - 'Traffic 75% ± 5%'
+        - 'Premium PR Services'
+        - 'Google Penalty Check'
+        - 'Competition Analysis'
+        - 'Broken Links Check'
+        - 'Proper URL META Analysis'
       plan: VALUE
       price: '999/Mo'
-    - description: Want a few tiny batches from different varieties? Try our custom plan
+    - description: Puzzled over choosing your strategy? Try our custom plan
       items:
-        - 5 Keywords — 60% ↑ — 8 Months
-        - Market Target: Local + Global
-        - Traffic 75% ± 5%
-        - Premium PR Services
-        - Google Penalty Check
-        - Competition Analysis
-        - Broken Links Check
-        - Proper URL META Analysis
-      plan: Custom
+        - 'Talk with us ⟶'
+      plan: CUSTOM
       price: '?'
 ---
