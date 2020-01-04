@@ -1,1 +1,3 @@
-.nopricing f4 {display: none;}
+.nopricing .f4 {
+  display: none !important;
+}
