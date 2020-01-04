@@ -25,11 +25,9 @@ values:
     
 full_image: /img/products-full-width.jpg
 pricing:
-  heading: Monthly subscriptions
+  heading: BRANDING | MARKETING
   description: >-
-    We make it easy to make great coffee a part of your life. Choose one of our
-    monthly subscription plans to receive great coffee at your doorstep each
-    month. Contact us about more details and payment info.
+    KEYSOME is a fully custom, white label, search optimization and web development venture with focus on ranking your sites #1 in search. We are fully committed to helping companies create beautiful and responsive website that meet their exact needs. No templates which means better, faster and more return on your search rankings. KEYSOME's search optimziation works with a strategic vision to generate brand engagement, always helping clients win higher conversions and measurable results. We cater both users and search engines with equal balance. Profitable online performance starts with the basics — a flawless website, optimized content and amazing keyword strategy. 
   plans:
     - description: 
       items:
@@ -39,12 +37,12 @@ pricing:
         - Google receives 63K+ searches/second on any given day 50% of search queries are 4 words or longer. 60% of clicks go to the top 3 websites in SERPs. 75% of users never click past the 1st page of SERPs.
       plan: Small
       price: '50'
-    - description: 'For the past few years, we’ve helped multiple business increase their website traffic, leads & revenue by 25% - 200% using our signature SEO. Here’s our invitation: Try KEYSOME, if you desire your business to be found easily by the people that need your products.'
+    - description: 'For the past few years, we’ve helped multiple business increase their website traffic, leads & revenue by 25% — 200% using our signature SEO. Here's our invitation: Try KEYSOME, if you desire your business to be found easily by the people that need your products.'
       plan: Big
       price: '80'
     - description: Want a few tiny batches from different varieties? Try our custom plan
       items:
-        - "The top 2 results on page 1 of Google have 38% of all the backlinks from pages on page 1..." source: Matthew Barby – HubSpot
+        - "The top 2 results on page 1 of Google have 38% of all the backlinks from pages on page 1..." source: Matthew Barby — HubSpot
         - "On average users view 3 to 3.5 pages when landing on a webpage from the search..." source: SEMrush
         - "Content with a featured snippet gets a 2X higher click-through rate..." source: HubSpot
       plan: Custom
