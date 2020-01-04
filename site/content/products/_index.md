@@ -57,7 +57,7 @@ pricing:
         - 'Content Duplicacy Check'
         - 'Backlinks Analysis'
       plan: BASIC ⚡️
-      price: '499/Mo'
+      price: '499/ᴹᵒ'
     - description: 'Perfect for medium business'
       items:
         - '5 Keywords — 60% ↑'
@@ -69,7 +69,7 @@ pricing:
         - 'Broken Links Check'
         - 'Proper URL META Analysis'
       plan: VALUE
-      price: '999/Mo'
+      price: '999/ᴹᵒ'
     - description: Puzzled over choosing your strategy? Try our custom plan
       items:
         - 'Talk with us ⟶'
