@@ -1,6 +1,6 @@
 ---
 title: "Doesn't your site deserve to be #1 on Google?"
-subtitle: Google® Certified SEO Agency
+subtitle: KEYSOME — Google® Certified SEO Agency
 image: /img/home-jumbotron.jpg
 blurb:
     heading: Why KEYSOME?
