@@ -4,23 +4,22 @@ image: /img/about-jumbotron.jpg
 pricing:
   heading: Monthly subscriptions
   description: >-
-    We make it easy to make great coffee a part of your life. Choose one of our
-    monthly subscription plans to receive great coffee at your doorstep each
-    month. Contact us about more details and payment info.
+    -- 
   plans:
-    - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
+    - description: 
       items:
-        - 3 lbs of coffee per month
-      plan: Small
-      price: '50'
-    - description: 'Great for avid drinkers, java-nsoving couples and bigger crowds'
+        - In a survey conducted by KEYSOME, 75% of the users never scroll past the first page of search results.
+        - 53% of visits are abandoned if a mobile site takes longer than 3 seconds to load..... source: Google
+        - After performing a search query, 62% click on an organic result... source: Rand Fishkin
+        - Google receives 63K+ searches/second on any given day 50% of search queries are 4 words or longer. 60% of clicks go to the top 3 websites in SERPs. 75% of users never click past the 1st page of SERPs.
+    - description: 'For the past few years, we have helped multiple business increase their website traffic, leads & revenue by 200% using our signature SEO. Try KEYSOME, if you desire your business to be found easily by the people that need your products.'
       items:
         - 6 lbs of coffee per month
-      plan: Big
-      price: '80'
     - description: Want a few tiny batches from different varieties? Try our custom plan
       items:
-        - Whatever you need
+        - The top 2 results on page 1 of Google have 38% of all the backlinks from pages on page 1... source: Matthew Barby: HubSpot
+        - On average users view 3 to 3.5 pages when landing on a webpage from the search... Source: SEMrush
+        - Content with a featured snippet gets a 2X higher click-through rate... Source: HubSpot
       plan: Custom
       price: '30'
 values:
