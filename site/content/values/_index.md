@@ -13,8 +13,6 @@ pricing:
         - 'a survey conducted by KEYSOME 75% of users never scroll past the first page of search results'
         - '53% of visits are abandoned if a mobile site takes longer than 3 seconds to load..... Source: Google'
         - 'After performing a search query, 62% click on an organic result... Source: Rand Fishkin'
-      plan: Small
-      price: '50'
     - description: 'For the past few years we have helped multiple business increase their website traffic leads & revenue by 200% using our signature SEO. Here is our invitation Try KEYSOME, if you desire your business to be found easily by the people that need your products.'
       items:
         - 3 lbs of coffee per month
