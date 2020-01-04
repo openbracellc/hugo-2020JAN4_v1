@@ -13,11 +13,10 @@ pricing:
         - 3 lbs of coffee per month
       plan: Small
       price: '50'
-    - description: 'Great for avid drinkers, java-nsoving couples and bigger crowds'
+    - description: 'For the past few years, we have helped multiple business increase their website traffic, leads & revenue by 200% using our signature SEO. Here is our invitation: Try KEYSOME, if you desire your business to be found easily by the people that need your products.'
       items:
-        - 6 lbs of coffee per month
-      plan: Big
-      price: '80'
+      plan: 
+      price: ''
     - description: Want a few tiny batches from different varieties? Try our custom plan
       items:
         - Whatever you need
