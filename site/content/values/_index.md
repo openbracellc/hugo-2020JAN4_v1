@@ -8,7 +8,7 @@ values:
     imageUrl: "/img/about-shade-grown.jpg"
   - heading: "BRANDING"
     text: >
-      Especially for start-ups and very small businesses, these packages combine the design for your logo with a set of stationery, a website or an online shop. You'll be benefiting from the collective skills of our creative team and web team, with one point of call and an experienced account manager to guide you through the whole process. We design all the brandy bits and arrange them into a coherent, cohesive and organised one-ness that is the way your company looks and sounds to everyone it rubs shoulders with. There is far more to brands than meets the eye — like what you do, how you do it and what it does for other people. DYK, we're exposed to 5000 brands/day.
+      FACT: We're exposed to over 5000 brands/day. We design all the brandy bits and arrange them into a coherent, cohesive and organised one-ness that is the way your company looks and sounds to everyone it rubs shoulders with. Especially for start-ups and very small businesses, these packages combine the design for your logo with a set of stationery, a website or an online shop. You'll be benefiting from the collective skills of our creative team and web team, with one point of call and an experienced account manager to guide you through the whole process. There is far more to brands than meets the eye — like what you do, how you do it and what it does for other people. 
     imageUrl: "/img/about-single-origin.jpg"
   - heading: "CREATIVES"
     text: >
