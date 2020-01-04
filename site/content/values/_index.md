@@ -26,24 +26,24 @@ full_image: /img/products-full-width.jpg
 pricing:
     heading: BRANDING
     description: >-
-        KEYSOME 
+    KEYSOME 
     plans:
     - description: 
-        items:
+      items:
         - In ....
         - In.... 
         - In..... 
         - Google ...
-        plan: Small
-        price: '50'
-        - description: 'Test....'
-        plan: Big
-        price: '80'
-        - description: Want a few tiny batches from different varieties? Try our custom plan
-        items:
+      plan: Small
+      price: '50'
+    - description: 'Test....'
+      plan: Big
+      price: '80'
+    - description: Want a few tiny batches from different varieties? Try our custom plan
+      items:
         - Top...
         - Top...
         - Top... 
-        plan: Custom
-        price: '?'
+      plan: Custom
+      price: '?'
 ---
