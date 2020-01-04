@@ -1,5 +1,5 @@
 ---
-title: "Services"
+title: "Why KEYSOME"
 image: /img/about-jumbotron.jpg
 values:
   - heading: "MARKETING"
