@@ -31,14 +31,14 @@ values:
   - heading: "CREATIVES"
     text: >
       The way the brand looks, in all its various manifestations, is far more than the design of the logo. A logo is a symbol or wordmark, or a combination of the two, which personifies an individual company, or a range of products or services. Great design has an amazingly positive effect on any business. When this is applied consistently and in conjunction with a predetermined set of styles and elements — fonts, colours, photographs and graphics — it forms the cornerstone of the visual identity. We hire the best eyes to create your brand. We guide photons through mosaics of pixels to interact via people’s visual cortex and make them do things they otherwise wouldn't have done. Enuf said, perhaps?
-    imageUrl: "/img/stone_75-1.webp"
+    imageUrl: "/img/stone_75-1.png"
   - heading: "SPEED OPTIMIZATION"
     text: >
       In an era dominated by smartphones, why should your site still be the 80s kid? Are you losing your clients to your competitor who runs a 10x faster site/app? By using web coding and employing latest browser optimization methods we can empower your customers do things quicker, easier and more reliably than other mere mortals. We specialise in bespoke website design, development to deployment. Business ready builds. Is your website slow? App/website hangs often? Un-responsive? We help you clean your code. By combining these different elements of your identity design, we can offer you a cohesive service and terrific value for money. 
-    imageUrl: "/img/a156199064467622388.png"
+    imageUrl: "/img/156199064467622388.png"
   - heading: "CONTENT MARKETING"
     text: >
       Do you need PR to make news? Do you need searchable conetnt to promote biz? Do you need blogger outreach programs? Do you need to engage with relevant bloggers, vloggers, podcasters, and experts for promotions? Are your press releases sitting idle? Do you need to spread the word on your e-commerce discount vouchers? Do you need converage for your events? Do you need to lauch your products/services? Planning to make your website traffic 100% organic and content driven searches? As one of the leading brand design companies, we know how important it is for your business to make a good impression. 
-    imageUrl: "/img/about-reinvest-profits.jpg"
-full_image: /img/157817170339560501.png
+    imageUrl: "/img/p-trans-spinach.png"
+full_image: /img/1500x500yes.jpg
 ---
