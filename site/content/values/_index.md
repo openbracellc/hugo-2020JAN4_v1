@@ -3,13 +3,12 @@ title: "Services"
 image: /img/about-jumbotron.jpg
 values:
   - heading: "MARKETING"
-    text: > DYK, Top 5 search results attract 67% clicks. How do you know that your digital marketing strategy works? If given a choice – high traffic+low conversions Vs low traffic+high conversion. What would you choose? Now, factor in Organic SEO Vs Paid Ads. Now factor in Time Vs Cost. Again, factor in keyword competition Vs conversions. Optimize your Digital Marketing Strategy. Writing optimized for search is an intensely time consuming process. Finding the right mix of keywords that provide a balance in search traffic, competition, & CPC costs included.
-      
+    text: > 
+      DYK, Top 5 search results attract 67% clicks. How do you know that your digital marketing strategy works? If given a choice high traffic and low conversions Vs low traffic+high conversion. What would you choose? Now, factor in Organic SEO Vs Paid Ads. Now factor in Time Vs Cost. Again, factor in keyword competition Vs conversions. Optimize your Digital Marketing Strategy. Writing optimized for search is an intensely time consuming process. Finding the right mix of keywords that provide a balance in search traffic, competition, & CPC costs included.
     imageUrl: "/img/about-shade-grown.jpg"
   - heading: "BRANDING"
     text: >
-      Especially for start-ups and very small businesses, these packages combine the design for your logo with a set of stationery, a website or an online shop. You'll be benefiting from the collective skills of our creative team and web team, with one point of call and an experienced account manager to guide you through the whole process. We design all the brandy bits and arrange them into a coherent, cohesive and organised one-ness that is the way your company looks and sounds to everyone it rubs shoulders with. There’s far more to brands than meets the eye — like what you do, how you do it and what it does for other people. DYK, we're exposed to 5000 brands/day.
-
+      Especially for start-ups and very small businesses, these packages combine the design for your logo with a set of stationery, a website or an online shop. You'll be benefiting from the collective skills of our creative team and web team, with one point of call and an experienced account manager to guide you through the whole process. We design all the brandy bits and arrange them into a coherent, cohesive and organised one-ness that is the way your company looks and sounds to everyone it rubs shoulders with. There is far more to brands than meets the eye — like what you do, how you do it and what it does for other people. DYK, we're exposed to 5000 brands/day.
     imageUrl: "/img/about-single-origin.jpg"
   - heading: "CREATIVES"
     text: >
@@ -21,6 +20,6 @@ values:
     imageUrl: "/img/about-direct-sourcing.jpg"
   - heading: "CONTENT MARKETING"
     text: >
-      Do you need PR to make news? Do you need searchable conetnt to promote biz? Do you need blogger outreach programs? Do you need to engage with relevant bloggers, vloggers, podcasters, and experts for promotions? <b>Are your press releases sitting idle? </b> Do you need to spread the word on your e-commerce discount vouchers? Do you need converage for your events? Do you need to lauch your products/services? Planning to make your website traffic 100% organic and content driven searches? As one of the leading brand design companies, we know how important it is for your business to make a good impression. 
+      Do you need PR to make news? Do you need searchable conetnt to promote biz? Do you need blogger outreach programs? Do you need to engage with relevant bloggers, vloggers, podcasters, and experts for promotions? Are your press releases sitting idle? Do you need to spread the word on your e-commerce discount vouchers? Do you need converage for your events? Do you need to lauch your products/services? Planning to make your website traffic 100% organic and content driven searches? As one of the leading brand design companies, we know how important it is for your business to make a good impression. 
     imageUrl: "/img/about-reinvest-profits.jpg"
 ---
