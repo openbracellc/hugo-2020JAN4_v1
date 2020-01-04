@@ -36,35 +36,43 @@ main:
     alt: Coffee beans
     image: /img/products-grid1.jpg
 testimonials:
-  - author: Elisabeth Kaurismäki
+  - author: Madelyn Mccaffrey, Director (Operations)
     quote: >-
-      The first time I tried Kaldi’s coffee, I couldn’t even believe that was
-      the same thing I’ve been drinking every morning.
-  - author: Philipp Trommler
+      We continue to expand our business with KEYSOME. We would be happy to recommend them to anyone who is looking to improve their rankings. The results far exceed any traditional form of marketing you will undertake.
+  - author: Tom Burch, VP Sales
     quote: >-
-      Kaldi is the place to go if you want the best quality coffee. I love their
-      stance on empowering farmers and transparency.
+      Received a growth of 25%. I love their stance on empowering search optimization and pricing transparency.
 full_image: /img/products-full-width.jpg 
 pricing:
-  heading: Monthly subscriptions
+  heading: Let's talk pricing
   description: >-
-    We make it easy to make great coffee a part of your life. Choose one of our
-    monthly subscription plans to receive great coffee at your doorstep each
-    month. Contact us about more details and payment info.
+    Does your search efforts pay? Understanding what makes something special and the way by which it answers real and perceived needs is essential in creating a successful strategy. 
   plans:
-    - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
+    - description: Perfect for the startups
       items:
-        - 3 lbs of coffee per month
-      plan: Small
-      price: '50'
-    - description: 'Great for avid drinkers, java-nsoving couples and bigger crowds'
+        - 
+      plan: BASIC ⚡️
+      price: '499/Mo'
+    - description: 'Perfect for medium business'
       items:
-        - 6 lbs of coffee per month
-      plan: Big
-      price: '80'
+        - 2 Keywords — 50% ↑ — 6 Months
+        - Market Target: Local
+        - Traffic 50% ± 5%
+        - Indepth Site Analysis
+        - Content Duplicacy Check
+        - Backlinks Analysis
+      plan: VALUE
+      price: '999/Mo'
     - description: Want a few tiny batches from different varieties? Try our custom plan
       items:
-        - Whatever you need
+        - 5 Keywords — 60% ↑ — 8 Months
+        - Market Target: Local + Global
+        - Traffic 75% ± 5%
+        - Premium PR Services
+        - Google Penalty Check
+        - Competition Analysis
+        - Broken Links Check
+        - Proper URL META Analysis
       plan: Custom
       price: '?'
 ---
