@@ -50,12 +50,13 @@ pricing:
   plans:
     - description: Perfect for startups
       items:
-        - '2 Keywords 50% ↑'
+        - '2 Keywords — 50% ↑'
         - 'Market Target: Local'
         - 'Traffic 50% ± 5%'
         - 'Indepth Site Analysis'
         - 'Content Duplicacy Check'
         - 'Backlinks Analysis'
+        - 'Proper URL META Analysis'
       plan: BASIC ⚡️
       price: '499/ᴹᵒ'
     - description: 'Perfect for medium business'
@@ -67,7 +68,6 @@ pricing:
         - 'Google Penalty Removal'
         - 'Competition Analysis'
         - 'Broken Links Removal'
-        - 'Proper URL META Analysis'
       plan: VALUE
       price: '999/ᴹᵒ'
     - description: Puzzled over choosing your strategy? Try our custom plan
