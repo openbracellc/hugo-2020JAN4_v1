@@ -7,16 +7,16 @@ description: >-
   KEYSOME is a fully custom, white label, search optimization and web development venture with focus on ranking your sites #1 in search. We are fully committed to helping companies create beautiful and responsive website that meet their exact needs; no templates which means better, faster and more return on your search rankings.
 intro:
   blurbs:
-    - image: /img/illustrations-coffee.svg
+    - image: /img/one.png
       text: >
         Here's the question: Does your search engine understand your site better? Is your site optimized both content and code-wide? We help clients realize which individual web/app pages impact your search ranking performance. In order to rank higher and earn more relevant traffic in search engines, our on-page optimization efforts includes optimizing web page titles, meta descriptions, tags, schema markup and keyword research that are among the few important on-page ranking factors. Keyword analysis used to identify which keywords to target with search engine optimized effort. KEYSOME helps to build schema markups that helps search engines instantly understand your content better. 
-    - image: /img/illustrations-coffee-gear.svg
+    - image: /img/two.png
       text: >
         Need to growth-hack your SEO strategy? Understanding your competitors is key to effective goals and can reveal opportunities, gaps and blind spots. At KEYSOME, we provide opportunities that understand your competitor's backlinks to identify websites to target for link building efforts. We help you analyze keywords that directly affect your search ranking and enagage with content that changes with time. We offer result-oriented SEO consulting services. Do you want your team to implement the best SEO practices? Do you want to know why your business is not ranking on the top in search results? Hire our search experts and dominate your ranking!
-    - image: /img/illustrations-tutorials.svg
+    - image: /img/three.png
       text: >
         We take off page search optimization seriously. The actions taken outside of your own website to impact your rankings within search engine results pages. At KEYSOME, we help you identify content off-page opportunities to drive organic traffic to your site. The most powerful way to engage and drive traffic to your website is sharing relevant content and distributing them to the right audience. We analyze backlinks to find out which links are valuable to keep or not.
-    - image: /img/illustrations-meeting-space.svg
+    - image: /img/four.png
       text: >
         We focus on search ranking KPIs lilke Topical Trust Flow that impact your search ranking directly. Give your site a strong, technical SEO foundation so your content has the best chance to rank for relevant keywords and phrases. KEYSOME helps clients with index optimization & penalty removal. Our search experts diagnose & fix issues causing ranking penalties in order to quickly regain search traffic. We help clients compress even images to boost your web pages load times by 10x. We focus more on important technical factors that impact your site's search ranking. Proper site index-ability helps search engines crawl & index your web pages. Did you check KEYSOME's Pagescore yet?
   heading: BESPOKE DIGITAL MARKETING
