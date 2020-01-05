@@ -1,5 +1,5 @@
 ---
-title: "Why KEYSOME"
+title: "About KEYSOME"
 image: /img/about-jumbotron.jpg
 pricing:
   heading: Growth-hack your SEO Strategy
