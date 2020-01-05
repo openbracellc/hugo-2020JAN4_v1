@@ -1,8 +1,8 @@
 ---
-title: "About KEYSOME"
+title: "Growth-hack your SEO Strategy"
 image: /img/about-jumbotron.jpg
 pricing:
-  heading: Growth-hack your SEO Strategy
+  heading: ''
   description: >-
     Here's some food for thought: Google receives 63K+ searches/second on any given day 50% of search queries are 4 words or longer. 67% of clicks go to top 3 websites in SERPs. 75% of users never click past the 1st page of SERPs.
   plans:
