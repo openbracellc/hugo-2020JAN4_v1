@@ -24,9 +24,9 @@ As you write naturally, those phrases will build naturally into your content, so
 Here’s 3 important tips newbies forget about:
 
 1. Original Content Matters
-2. Research valuable keywords. Make sure they are less competitive.
+2. Research valuable keywords that are less competitive.
 3. Add backlinks from other sites and social media
-4. Timing is key, don’t forget the clock. Keywords take time to rank.
+4. Timing is key, don’t forget the clock!
 
 Even worse, your readers will pick up on the poor writing and leave your site. Your user engagement falls, and this means fewer customers and a weak following. When you focus too much on keywords and search engines, yo we no longer considering your readers, who will not hesitate to complain about poorly written content. It’s the worse SEO content strategy you can have for your site. When you prepare your content strategy. 
 
