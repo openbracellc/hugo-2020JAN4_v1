@@ -17,13 +17,13 @@ intro:
     offer our clients a wide range of search optimization-related services,
     supplemented by industry-ready search strategies.
 products:
-  - image: img/illustrations-coffee.svg
+  - image: img/img_1x.png
     text: >-
       KEYSOME is one of the strongest & innovative search optimization agency.
       We're pround to care to make a social impact and support local
       communities. Check our blogs, or contact us directly to learn more about
       us.
-  - image: /img/illustrations-coffee-gear.svg
+  - image: /img/img_2x.png
     text: >-
       We are a small, but carefully picked team of search experts armed with the
       right gear and tools for every kind of experience level. No matter if your
