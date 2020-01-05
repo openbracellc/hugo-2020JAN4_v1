@@ -1,7 +1,7 @@
 ---
 title: 'Doesn''t your site deserve to be #1 on Google?'
 subtitle: KEYSOME — Google® Certified Search Optimization Agency
-image: /img/chess1.jpg
+image: /img/chess1.webp
 blurb:
   heading: Why KEYSOME?
   text: >-
@@ -17,13 +17,13 @@ intro:
     offer our clients a wide range of search optimization-related services,
     supplemented by industry-ready search strategies.
 products:
-  - image: img/img_1x.png
+  - image: img/img_1x.webp
     text: >-
       KEYSOME is one of the strongest & innovative search optimization agency.
       We're pround to care to make a social impact and support local
       communities. Check our blogs, or contact us directly to learn more about
       us.
-  - image: /img/img_2x.png
+  - image: /img/img_2x.webp
     text: >-
       We are a small, but carefully picked team of search experts armed with the
       right gear and tools for every kind of experience level. No matter if your
