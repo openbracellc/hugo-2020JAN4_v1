@@ -13,6 +13,7 @@ description: >-
   involves building back links on relevant and authoritative websites, as well
   as publishing high-quality content and performing other on-page optimization
   processes.
+image: /img/2oygxqou.jpg
 ---
 The terms search engine marketing (SEM) and search engine optimization (SEO) are often used interchangeably when referring to digital marketing strategies involving search engines Because of this, many business owners and marketers believe they are the same. While they share some similarities, however, SEM and SEO are two unique methodologies with different characteristics.
 
