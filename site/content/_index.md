@@ -20,9 +20,8 @@ products:
   - image: img/img_1x.webp
     text: >-
       KEYSOME is one of the strongest & innovative search optimization agency.
-      We're pround to care to make a social impact and support local
-      communities. Check our blogs, or contact us directly to learn more about
-      us.
+      We care to make a strong social impact and support local startup 
+      communities. Check our blogs, or contact us directly to learn more.
   - image: /img/img_2x.webp
     text: >-
       We are a small, but carefully picked team of search experts armed with the
