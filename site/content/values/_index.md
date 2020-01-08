@@ -31,7 +31,7 @@ values:
   - heading: "CREATIVES"
     text: >
       The way the brand looks, in all its various manifestations, is far more than the design of the logo. A logo is a symbol or wordmark, or a combination of the two, which personifies an individual company, or a range of products or services. Great design has an amazingly positive effect on any business. When this is applied consistently and in conjunction with a predetermined set of styles and elements — fonts, colours, photographs and graphics — it forms the cornerstone of the visual identity. We hire the best eyes to create your brand. We guide photons through mosaics of pixels to interact via people’s visual cortex and make them do things they otherwise wouldn't have done. Enuf said, perhaps?
-    imageUrl: "/img/stone_75-1.png"
+    imageUrl: "/img/stone_75-1.webp"
   - heading: "SPEED OPTIMIZATION"
     text: >
       In an era dominated by smartphones, why should your site still be the 80s kid? Are you losing your clients to your competitor who runs a 10x faster site/app? By using web coding and employing latest browser optimization methods we can empower your customers do things quicker, easier and more reliably than other mere mortals. We specialise in bespoke website design, development to deployment. Business ready builds. Is your website slow? App/website hangs often? Un-responsive? We help you clean your code. By combining these different elements of your identity design, we can offer you a cohesive service and terrific value for money. 
