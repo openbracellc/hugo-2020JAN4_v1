@@ -2,10 +2,10 @@
 title: "Contact"
 logo: "/img/logo.svg"
 contact_entries:
-  - heading: Location
+  - heading: Location    
     text: "Chennai, INDIA    "
-  - heading: Working hours
-    text: "Monday – Saturday: 9AM – 7PM"
+  - heading:     Working hours
+    text: "    Monday – Saturday: 9AM – 7PM"
 ---
 
 We’d love to get in touch with you and hear your ideas and
