@@ -77,13 +77,7 @@ export default class PostPreview extends React.Component {
       		<p className="mw6">{entry.getIn(['data', 'pricing', 'description'])}</p>
 
 
-        
-      <div className="containerz pricebox pricebox__sale">
-            <div className="pricebox__actual">1499</div> 
-           
-            999Mo
-      </div>
-        
+
 
       		<div className="flex-ns mhn2-ns mw7">
             {(entry.getIn(['data', 'pricing', 'plans']) || []).map((plan, index) => <div className="w-33-ns ph2" key={index}>
