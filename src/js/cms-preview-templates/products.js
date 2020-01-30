@@ -54,6 +54,8 @@ export default class PostPreview extends React.Component {
         </div>
       </div>
 
+
+
       <div className="pb4">
         {(entry.getIn(['data', 'testimonials']) || []).map((testimonial, index) => <div className="center mb3 ph3" key={index}>
         	<blockquote className="bg-grey-1 primary pa3 mb3 br1 b mw6 center">
@@ -64,6 +66,12 @@ export default class PostPreview extends React.Component {
       </div>
 
       <img src={getAsset(entry.getIn(['data', 'full_image']))} alt="" className="db w-100"/>
+        
+        
+        
+        
+      <div class="containerz"> <div class="pricebox"> <div class="pricebox__sale"> <span class="pricebox__actual">1499$</span> <span class="pricebox__savings"><small class="icon">%</small>-33%</span> </div> 999$/Mo </div>   
+        
 
       <div className="bg-off-white pv4 ph3">
       	<div className="mw7 center">
