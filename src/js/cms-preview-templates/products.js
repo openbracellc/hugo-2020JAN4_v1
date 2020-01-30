@@ -80,12 +80,10 @@ export default class PostPreview extends React.Component {
         
       <div className="containerz pricebox pricebox__sale">
             <div className="pricebox__actual">1499</div> 
-            <div className="pricebox__savings"><small className="icon">%</small>-33%</div></div> 
-            999/Mo</div>
+            <div className="pricebox__savings"><small className="icon">%</small>33%</div></div> 
+            999Mo
       </div>
         
-
-
 
       		<div className="flex-ns mhn2-ns mw7">
             {(entry.getIn(['data', 'pricing', 'plans']) || []).map((plan, index) => <div className="w-33-ns ph2" key={index}>
