@@ -3,3 +3,8 @@
 .no-centerx .grey-3 {text-align: left;font-size: -webkit-xxx-large;}
 .no-centerx .primary {font-size: xx-large;text-align: left;}
 .xlogox { width: 8em !important; }
+.phoneX{
+	font-family: 'Montserrat', sans-serif !important;
+	font-size: 64px;
+	text-align: right;
+}
