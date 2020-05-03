@@ -15,7 +15,7 @@
   <br /> 
   <ul class="mhn1-ns pa3"> <!-- flex-ns flex-wrap  --->
       {{ range (.Paginator 4).Pages.ByPublishDate.Reverse }}
-          <div class="ph1-ns flex"> <!-- w-50-ns  --->
+          <div class="ph1-ns w-50-ns flex"> <!-- w-50-ns  --->
             {{ .Render "li"}}
           </div>
       {{ end }}
