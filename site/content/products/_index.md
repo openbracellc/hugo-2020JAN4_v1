@@ -89,7 +89,7 @@ testimonials:
       any traditional form of marketing.
   - author: 'Madelyn Mccaffrey, Director (Operations)'
     quote: >-
-      Received a growth of 25%. I love their stance on empowering search
+      .... Received a growth of 25%. I love their stance on empowering search
       optimization and pricing transparency.
 full_image: /img/products-full-width.jpg
 pricing:
