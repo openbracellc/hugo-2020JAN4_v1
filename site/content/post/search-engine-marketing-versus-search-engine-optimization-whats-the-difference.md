@@ -2,7 +2,7 @@
 title: >-
   Search Engine Marketing (SEM) vs. Search Engine Optimization (SEO) - What's
   the Difference?
-date: 2017-01-04T15:04:10.000Z
+date: 2020-03-31T15:04:10.000Z
 description: >-
   SEO is a tricky subject, however, because of the tight-lipped nature of search
   engines While Google has revealed some of the factors it uses to determine
