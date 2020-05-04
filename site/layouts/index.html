@@ -13,9 +13,9 @@
 <div class="mw7 center">
   <h2 class="f2 b lh-title mb3">Latest stories</h2>
   <br /> 
-  <ul class="mhn1-ns w-50-ns pa3"> <!-- flex-ns flex-wrap  --->
+  <ul class="mhn1-ns flex-ns flex-wrap pa3"> <!--  --->
       {{ range (.Paginator 3).Pages.ByPublishDate.Reverse }}
-          <div class="ph1-ns flex"> <!-- w-50-ns  --->
+          <div class="ph1-ns w-50-ns flex"> <!--   --->
             {{ .Render "li"}}
           </div>
       {{ end }}
