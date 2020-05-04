@@ -1,6 +1,6 @@
 ---
 title: Should You Focus Content Writing on Keywords Only?
-date: 2017-01-04T15:04:10.000Z
+date: 2019-07-04T15:04:10.000Z
 description: >-
   You probably know that content strategy. Is key to building readership through
   search engine optimization. What you might not have heard is that focusing on
