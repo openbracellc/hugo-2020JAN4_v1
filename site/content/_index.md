@@ -1,13 +1,13 @@
 ---
-title: 'Doesn''t your site deserve to be #1 on Google?'
-subtitle: KEYSOME — Google® Certified Search Optimization Agency
+title: 'Doesn''t your site deserve to be #1 on search?'
+subtitle: KEYSOME — Search Optimization.
 image: /img/chess1.webp
 blurb:
   heading: Why KEYSOME?
   text: >-
     KEYSOME is a go-to company for digital marketing services. We offer premier
     services for data-driven search engine optimization, digital marketing &
-    PPC. We provide affordable search optimization services to startups that
+    PPC. We provide affordable optimization services to startups that
     bank their revenue on organic traffic and conversion-driven engagement.
 intro:
   heading: What we offer
@@ -159,7 +159,7 @@ pricing:
         - 'Market Target: Local + Global'
         - Traffic 75% ± 5%
         - Premium PR Services
-        - Google Penalty Removal
+        - Penalty Removal
         - Competition Analysis
         - Broken Links Removal
       plan: VALUE
@@ -180,19 +180,19 @@ pricing:
 pricing:
   heading: ''
   description: >-
-    Here's some food for thought: Google receives 63K+ searches/second on any given day 50% of search queries are 4 words or longer. 67% of clicks go to top 3 websites in SERPs. 75% of users never click past the 1st page of SERPs.
+    Here's some food for thought: Approx 63K+ searches/second on any given day 50% of search queries are 4 words or longer. 67% of clicks go to top 3 websites in SERPs. 75% of users never click past the 1st page of SERPs.
   plans:
     - description: 
       items:
         - 'A survey conducted by KEYSOME 75% of users never scroll past the first page of search results'
-        - '53% of visits are abandoned if a mobile site takes longer than 3 seconds to load..... Source: Google'
+        - '53% of visits are abandoned if a mobile site takes longer than 3 seconds to load..... '
         - 'After performing a search query, 62% click on an organic result... Source: Rand Fishkin'
     - description: 'For the past few years we have helped multiple business increase their website traffic leads & revenue by 200% using our signature SEO. Here is our invitation Try KEYSOME, if you desire your business to be found easily by the people that need your products.'
       items:
         - ''
     - description: 
       items:
-        - 'Top 2 results on page 1 of Google have 38% of all the backlinks from pages on page 1... Source: Matthew Barby, HubSpot'
+        - 'Top 2 results on page 1 have 38% of all the backlinks from pages on page 1...'
         - 'On average users view 3 to 3.5 pages when landing on a webpage from the search... Source: SEMrush'
         - 'Content with a featured snippet gets a 2X higher click through rate... Source: HubSpot'      
         
