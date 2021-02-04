@@ -9,7 +9,7 @@ description: >-
   search trends, user Interests, and what’s hot in your Industry.
 image: /img/strike.jpg
 ---
-Just because you shouldn’t focus on keywords only doesn’t mean you shouldn’t have a strategy. Most site owners make the mistake of using Google Adwords to find keywords and then building content around these phrases. Thousands of other website owners and competitors have already done the same thing, however, and having thousands of other pages with the same focus increases your competition and dilutes the value of your content. 
+Just because you shouldn’t focus on keywords only doesn’t mean you shouldn’t have a strategy. Most site owners make the mistake of finding keywords and then building content around these phrases. Thousands of other website owners and competitors have already done the same thing, however, and having thousands of other pages with the same focus increases your competition and dilutes the value of your content. 
 
 ## What Is a Good Keyword Strategy?
 
