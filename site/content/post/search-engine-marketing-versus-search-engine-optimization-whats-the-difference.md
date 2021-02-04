@@ -7,7 +7,7 @@ description: >-
   SEO is a tricky subject, however, because of the tight-lipped nature of search
   engines While search engines has revealed some of the factors it uses to determine
   where websites rank, it has not shown its exact algorithm. Of course, this
-  shouldn’t come as a surprise. If Google disclosed Its ranking algorithm,
+  shouldn’t come as a surprise. If your search disclosed its ranking algorithm,
   webmasters would know how to manipulate their search rankings. There are still
   ways to encourage higher search rankings, and that’s the basis of SEO. It
   involves building back links on relevant and authoritative websites, as well
